@@ -1,0 +1,9 @@
+Q.1 what is software?
+
+==>  "Software is a set of programs (sequence of instructions) that allows the users to perform a well-defined function or some specified task."
+
+      Software is responsible for directing all computer-related devices and instructing them regarding what and how the task is to be performed.         However, the software is made up of binary language (composed of ones and zeros), and for a programmer writing the binary code would be a           slow and tedious task. Therefore, software programmers write the software program in various human-readable languages such as Java, Python,          C#, etc. and later use the source code.
+      
+Q.2 What are the type of application?
+
+==>  
